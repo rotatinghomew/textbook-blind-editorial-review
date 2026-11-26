@@ -1,0 +1,102 @@
+[
+  {
+    "id": "v1-u1",
+    "revision": "v1",
+    "slot": "u1",
+    "digest": "t1",
+    "material": [
+      "pic-a1"
+    ],
+    "authors": [
+      "p-w1"
+    ],
+    "source_text": "用透明容器观察水流方向。",
+    "source_credit": [
+      "p-w1"
+    ]
+  },
+  {
+    "id": "v1-u2",
+    "revision": "v1",
+    "slot": "u2",
+    "digest": "t2",
+    "material": [
+      "pic-a1",
+      "case-b1"
+    ],
+    "authors": [
+      "p-w1"
+    ],
+    "source_text": "记录相同地点不同地貌下的浸润时间。",
+    "source_credit": [
+      "p-w1"
+    ]
+  },
+  {
+    "id": "v1-u3",
+    "revision": "v1",
+    "slot": "u3",
+    "digest": "t3",
+    "material": [
+      "case-c1"
+    ],
+    "authors": [
+      "p-w1"
+    ],
+    "source_text": "用同一时刻的影长比较光线角度。",
+    "source_credit": [
+      "p-w1"
+    ]
+  },
+  {
+    "id": "v2-u1",
+    "revision": "v2",
+    "slot": "u1",
+    "digest": "t1",
+    "material": [
+      "pic-a2"
+    ],
+    "authors": [
+      "p-w1"
+    ],
+    "source_text": "用透明容器观察水流方向。",
+    "source_credit": [
+      "p-w1"
+    ]
+  },
+  {
+    "id": "v2-u2",
+    "revision": "v2",
+    "slot": "u2",
+    "digest": "t2",
+    "material": [
+      "pic-a2",
+      "case-b1"
+    ],
+    "authors": [
+      "p-w1",
+      "p-w2"
+    ],
+    "source_text": "记录相同地点不同地貌下的浸润时间。",
+    "source_credit": [
+      "p-w1",
+      "p-w2"
+    ]
+  },
+  {
+    "id": "v2-u3",
+    "revision": "v2",
+    "slot": "u3",
+    "digest": "t3",
+    "material": [
+      "case-c1"
+    ],
+    "authors": [
+      "p-w1"
+    ],
+    "source_text": "用同一时刻的影长比较光线角度。",
+    "source_credit": [
+      "p-w1"
+    ]
+  }
+]

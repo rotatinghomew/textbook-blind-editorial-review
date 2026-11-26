@@ -1,0 +1,73 @@
+[
+  {
+    "id": "p-w1",
+    "organization": "org-a",
+    "roles": [
+      "author"
+    ]
+  },
+  {
+    "id": "p-w2",
+    "organization": "org-b",
+    "roles": [
+      "author"
+    ]
+  },
+  {
+    "id": "p-r1",
+    "organization": "org-b",
+    "roles": [
+      "teaching"
+    ]
+  },
+  {
+    "id": "p-r2",
+    "organization": "org-c",
+    "roles": [
+      "teaching",
+      "subject"
+    ]
+  },
+  {
+    "id": "p-r3",
+    "organization": "org-d",
+    "roles": [
+      "subject"
+    ]
+  },
+  {
+    "id": "p-r4",
+    "organization": "org-e",
+    "roles": [
+      "subject"
+    ]
+  },
+  {
+    "id": "p-r5",
+    "organization": "org-f",
+    "roles": [
+      "teaching"
+    ]
+  },
+  {
+    "id": "p-i1",
+    "organization": "org-z",
+    "roles": [
+      "issuer"
+    ]
+  },
+  {
+    "id": "p-i2",
+    "organization": "org-z",
+    "roles": [
+      "review_board"
+    ]
+  },
+  {
+    "id": "p-i3",
+    "organization": "org-z",
+    "roles": [
+      "intake"
+    ]
+  }
+]

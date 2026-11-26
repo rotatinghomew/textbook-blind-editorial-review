@@ -1,0 +1,18 @@
+[
+  {
+    "id": "aff-01",
+    "contributor": "p-w1",
+    "reviewer": "p-r2",
+    "since": "2026-08-01",
+    "reported": "2026-11-01",
+    "source": "编写技术服务关系回避补报"
+  },
+  {
+    "id": "aff-02",
+    "contributor": "p-w2",
+    "reviewer": "p-r3",
+    "since": "2026-10-21",
+    "reported": "2026-11-08",
+    "source": "原案例共建主持关系"
+  }
+]

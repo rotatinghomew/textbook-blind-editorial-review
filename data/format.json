@@ -1,0 +1,62 @@
+{
+  "documents": {
+    "people": [
+      "id",
+      "organization",
+      "roles"
+    ],
+    "sections": [
+      "id",
+      "revision",
+      "slot",
+      "digest",
+      "material",
+      "authors",
+      "source_text",
+      "source_credit"
+    ],
+    "materials": [
+      "id",
+      "kind",
+      "text"
+    ],
+    "obligations": [
+      "id",
+      "section",
+      "subject",
+      "teaching",
+      "minimum_people"
+    ],
+    "relations": [
+      "id",
+      "contributor",
+      "reviewer",
+      "since",
+      "reported",
+      "source"
+    ]
+  },
+  "references": [
+    [
+      "sections",
+      "material",
+      "materials"
+    ],
+    [
+      "sections",
+      "authors",
+      "people"
+    ],
+    [
+      "relations",
+      "contributor",
+      "people"
+    ],
+    [
+      "relations",
+      "reviewer",
+      "people"
+    ]
+  ],
+  "scoped_ids": {}
+}

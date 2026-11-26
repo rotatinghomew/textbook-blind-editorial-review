@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rule-u1",
+    "section": "u1",
+    "subject": 2,
+    "teaching": 1,
+    "minimum_people": 3
+  },
+  {
+    "id": "rule-u2",
+    "section": "u2",
+    "subject": 2,
+    "teaching": 1,
+    "minimum_people": 3
+  },
+  {
+    "id": "rule-u3",
+    "section": "u3",
+    "subject": 1,
+    "teaching": 1,
+    "minimum_people": 2
+  }
+]
